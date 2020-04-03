@@ -6,8 +6,11 @@ The angular app is stationed under the folder book-portal and the spring app is 
 API endpoints exposed are:
 
 /admin
+
 /admin/view
+
 /api/v1/books
+
 api/v1/books/:id
 
 To start the application, move to the root angular directory and run this command: **npm start** or **ng serve**
